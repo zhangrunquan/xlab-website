@@ -1,52 +1,54 @@
 ---
-＃显示名称
-标题：王方正
+# Display name
+title: 王方正
 
-＃用户名（此名称应与文件夹名称匹配）
-作者：
--王方正
+# Username (this should match the folder name)
+authors:
+- wangfangzheng
 
-＃这是网站的主要用户吗？
-超级用户：false
+# Is this the primary user of the site?
+superuser: false
 
-＃角色/职位
-角色：2019本科
+# Role/position
+role: 2019本
 
-＃组织/附属机构
-组织：
--名称：中国东部师范大学
-  网址：“ http://www.ecnu.edu.cn/”
+# Organizations/Affiliations
+organizations:
+- name: East China Normal University
+  url: "http://www.ecnu.edu.cn/"
 
-＃暂时的个人简介（显示在帖子末尾的用户个人资料中）
-个人简介：无
+# Short bio (displayed in user profile at end of posts)
+bio: null
 
-兴趣：
-LOL，二次元
+interests:
+- lol,fpsgame
 
-教育程度：
-  课程：
-  -课程：大数据技术
-    院校：DaSE
-    年：2019
+education:
+  courses:
+  - course: big data tech
+    institution: DaSE
+    year: 2017
 
-＃社会/学术网络
-＃有关可用图标，请参见：https：//sourcethemes.com/academic/docs/page-builder/#icons
-＃对于电子邮件链接，请使用“ fas”图标包，“附件”图标以及
-＃表单“ mailto：your-email@example.com”或“ #contact”作为联系人小部件。
-社会：
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
 
 
-＃从“关于”窗口小部件链接到简历/简历的PDF。
-＃要启用，重置简历/简历复制到“ static / files / cv.pdf”，然后取消注释以下行。
-＃-图标：简历
-＃icon_pack艾
-＃链接：文件/ cv.pdf
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
-＃输入电子邮件以显示Gravatar（如果在Config中启用了Gravatar）
-电子邮件：“ 837371713@qq.com”
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: "1@qq.com"
 
-＃您所属的组织组（用于“人员”小部件）
-＃放置设置为`[]`或在不使用“人物”窗口小部件的情况下将其注释掉。
-用户组：
--DT
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- DT
 ---
+
+
