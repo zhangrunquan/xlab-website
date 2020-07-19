@@ -21,7 +21,7 @@ organizations:
 bio: Be cute!
 
 interests:
-- movie, reading
+- movie, reading, bake
 
 education:
   courses:
